@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/racacax/xml_files/raw/master/xmltv.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="MTV1.mk" tvg-name="MRT1" tvg-logo="https://static.epg.best/mk/MRT1.mk.png" group-title="MAKEDONIJA",MRT 1
 http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8
