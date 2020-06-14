@@ -42,6 +42,88 @@ http://51.254.45.61:8080/hls/folkmk2.m3u8
 https://live.muzickatv.mk/hls/Starmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/folk_k10.jpg" group-title="MAKEDONIJA",Folk Club Hd Makedonija Tv
 rtmp://tv1.intv.mk:1935/live2/folkklub
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",21 Maqedoni
+http://linux-app.tv:6204/60400655844704/32991126026152/29136
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",24 Vesti
+http://linux-app.tv:6204/60400655844704/32991126026152/29137
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",ALFA HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29138
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",ALSAT
+http://linux-app.tv:6204/60400655844704/32991126026152/29139
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Folk HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29140
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",HBO 2 HD MK
+http://linux-app.tv:6204/60400655844704/32991126026152/29141
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",HBO HD MK
+http://linux-app.tv:6204/60400655844704/32991126026152/29142
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",HUGO 3
+http://linux-app.tv:6204/60400655844704/32991126026152/29145
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Hugo 2
+http://linux-app.tv:6204/60400655844704/32991126026152/29144
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",KANAL 5
+http://linux-app.tv:6204/60400655844704/32991126026152/29146
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",KLAN Macedonia
+http://linux-app.tv:6204/60400655844704/32991126026152/29149
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Klan
+http://linux-app.tv:6204/60400655844704/32991126026152/29148
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Leskovac TV
+http://linux-app.tv:6204/60400655844704/32991126026152/29150
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",LiveTV HD
+rtmp://live.livetvhd.cf/live/livetvhd
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MEGA
+http://linux-app.tv:6204/60400655844704/32991126026152/29152
+#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="MAKEDONIJA",MRT 1
+http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRT 1
+http://linux-app.tv:6204/60400655844704/32991126026152/29154
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 1
+http://linux-app.tv:6204/60400655844704/32991126026152/29155
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 1 sat
+http://linux-app.tv:6204/60400655844704/32991126026152/29156
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 2 sat
+http://linux-app.tv:6204/60400655844704/32991126026152/29158
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 3
+http://linux-app.tv:6204/60400655844704/32991126026152/29159
+#EXTINF:-1 tvg-country="MK" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="MAKEDONIJA",Macedonia : Sky Folk TV HD,Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Makedonia TV HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29151
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",NASA TV
+http://linux-app.tv:6204/60400655844704/32991126026152/29160
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Nasa TV (Nasha TV)
+http://linux-app.tv:6204/60400655844704/32991126026152/29161
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Planeta TV
+http://linux-app.tv:6204/60400655844704/32991126026152/29162
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL 1
+http://linux-app.tv:6204/60400655844704/32991126026152/29164
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL 3
+http://linux-app.tv:6204/60400655844704/32991126026152/29166
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29167
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Shutel TV
+http://linux-app.tv:6204/60400655844704/32991126026152/29163
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Sitel 2
+http://linux-app.tv:6204/60400655844704/32991126026152/29165
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Edo
+http://linux-app.tv:6204/60400655844704/32991126026152/29170
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Kanal+
+http://linux-app.tv:6204/60400655844704/32991126026152/29172
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV NOVA
+http://linux-app.tv:6204/60400655844704/32991126026152/29173
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Sonce
+http://linux-app.tv:6204/60400655844704/32991126026152/29177
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV+ Kumanovo
+http://linux-app.tv:6204/60400655844704/32991126026152/29179
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Telma
+http://linux-app.tv:6204/60400655844704/32991126026152/29169
+#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONIJA",Telma (MK),Телма
+http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Tv Shenja
+http://linux-app.tv:6204/60400655844704/32991126026152/29176
+#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Tv Uskana
+http://linux-app.tv:6204/60400655844704/32991126026152/29178
+#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONIJA",Алфа ТВ
+http://190.2.154.72:8081/tvstanici/33/playlist.m3u8
 #EXTINF:-1 tvg-id="DMsat.sr" tvg-logo="http://212.8.253.112/logo/EXYU/DMSAT.png" audio-track="fr" tvg-name="DM Sat" group-title="EX-YU",DM Sat
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="http://212.8.253.112/logo/EXYU/HRT%201.png" audio-track="fr" tvg-name="HRT 1" group-title="EX-YU",HRT 1
@@ -200,6 +282,8 @@ udp://@239.101.10.30:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-logo="https://static.epg.best/fr/DisneyJunior.fr.png" audio-track="eng" tvg-name="Disney Junior" group-title="FRENCH KIDS",Disney Junior
 rtp://233.21.50.31:1234
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="FRENCH KIDS",A12 Televison,FR | A12 Televison
+https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/NICKELODEONJUNIOR.png" audio-track="eng" tvg-name="Nickelodeon Junior" group-title="FRENCH KIDS",Nickelodeon Junior
 udp://@239.101.11.53:1234
 #EXTINF:-1 tvg-id="TeleToonPlus.Fr" tvg-logo="https://static.epg.best/fr/TeleToonPlus.fr.png" audio-track="eng" tvg-name="TéléToon +" group-title="FRENCH KIDS",TéléToon +
