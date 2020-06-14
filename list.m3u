@@ -42,16 +42,6 @@ http://51.254.45.61:8080/hls/folkmk2.m3u8
 https://live.muzickatv.mk/hls/Starmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/14/05/82/60/folk_k10.jpg" group-title="MAKEDONIJA",Folk Club Hd Makedonija Tv
 rtmp://tv1.intv.mk:1935/live2/folkklub
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",21 Maqedoni
-http://linux-app.tv:6204/60400655844704/32991126026152/29136
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",24 Vesti
-http://linux-app.tv:6204/60400655844704/32991126026152/29137
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",ALFA HD
-http://linux-app.tv:6204/60400655844704/32991126026152/29138
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",ALSAT
-http://linux-app.tv:6204/60400655844704/32991126026152/29139
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Folk HD
-http://linux-app.tv:6204/60400655844704/32991126026152/29140
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",HBO 2 HD MK
 http://linux-app.tv:6204/60400655844704/32991126026152/29141
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",HBO HD MK
@@ -60,70 +50,25 @@ http://linux-app.tv:6204/60400655844704/32991126026152/29142
 http://linux-app.tv:6204/60400655844704/32991126026152/29145
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Hugo 2
 http://linux-app.tv:6204/60400655844704/32991126026152/29144
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",KANAL 5
-http://linux-app.tv:6204/60400655844704/32991126026152/29146
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",KLAN Macedonia
-http://linux-app.tv:6204/60400655844704/32991126026152/29149
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Klan
-http://linux-app.tv:6204/60400655844704/32991126026152/29148
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Leskovac TV
-http://linux-app.tv:6204/60400655844704/32991126026152/29150
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",LiveTV HD
-rtmp://live.livetvhd.cf/live/livetvhd
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MEGA
-http://linux-app.tv:6204/60400655844704/32991126026152/29152
-#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="MAKEDONIJA",MRT 1
-http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRT 1
-http://linux-app.tv:6204/60400655844704/32991126026152/29154
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 1
-http://linux-app.tv:6204/60400655844704/32991126026152/29155
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 1 sat
 http://linux-app.tv:6204/60400655844704/32991126026152/29156
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 2 sat
 http://linux-app.tv:6204/60400655844704/32991126026152/29158
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",MRTV 3
 http://linux-app.tv:6204/60400655844704/32991126026152/29159
-#EXTINF:-1 tvg-country="MK" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="MAKEDONIJA",Macedonia : Sky Folk TV HD,Sky Folk TV
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Makedonia TV HD
-http://linux-app.tv:6204/60400655844704/32991126026152/29151
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",NASA TV
 http://linux-app.tv:6204/60400655844704/32991126026152/29160
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Nasa TV (Nasha TV)
 http://linux-app.tv:6204/60400655844704/32991126026152/29161
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Planeta TV
 http://linux-app.tv:6204/60400655844704/32991126026152/29162
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL 1
-http://linux-app.tv:6204/60400655844704/32991126026152/29164
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL 3
-http://linux-app.tv:6204/60400655844704/32991126026152/29166
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",SITEL HD
-http://linux-app.tv:6204/60400655844704/32991126026152/29167
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Shutel TV
-http://linux-app.tv:6204/60400655844704/32991126026152/29163
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Sitel 2
 http://linux-app.tv:6204/60400655844704/32991126026152/29165
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Edo
-http://linux-app.tv:6204/60400655844704/32991126026152/29170
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Kanal+
-http://linux-app.tv:6204/60400655844704/32991126026152/29172
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV NOVA
 http://linux-app.tv:6204/60400655844704/32991126026152/29173
 #EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV Sonce
 http://linux-app.tv:6204/60400655844704/32991126026152/29177
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",TV+ Kumanovo
-http://linux-app.tv:6204/60400655844704/32991126026152/29179
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Telma
-http://linux-app.tv:6204/60400655844704/32991126026152/29169
-#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONIJA",Telma (MK),Телма
-http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Tv Shenja
-http://linux-app.tv:6204/60400655844704/32991126026152/29176
-#EXTINF:-1 tvg-country="MK" tvg-logo="" group-title="MAKEDONIJA",Tv Uskana
-http://linux-app.tv:6204/60400655844704/32991126026152/29178
-#EXTINF:-1 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONIJA",Алфа ТВ
-http://190.2.154.72:8081/tvstanici/33/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DMsat.sr" tvg-logo="http://212.8.253.112/logo/EXYU/DMSAT.png" audio-track="fr" tvg-name="DM Sat" group-title="EX-YU",DM Sat
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="http://212.8.253.112/logo/EXYU/HRT%201.png" audio-track="fr" tvg-name="HRT 1" group-title="EX-YU",HRT 1
@@ -163,7 +108,8 @@ http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
 #EXTINF:-1 group-title="EX-YU",RTL Hrvatska 
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8
 #EXTINF:-1 group-title="EX-YU",Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTSUn.ch" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" audio-track="fr" tvg-name="RTS Un" group-title="FRENCH",RTS Un
 udp://@239.101.10.46:1234
 #EXTINF:-1 tvg-id="RTSDeux.ch" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" audio-track="fr" tvg-name="RTS Deux" group-title="FRENCH",RTS Deux
@@ -214,6 +160,7 @@ udp://@239.101.10.18:1234
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" audio-track="fr" tvg-name="Canal +" group-title="FRENCH",Canal +
 udp://@239.101.10.39:1234
+
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static.epg.best/fr/TMC.fr.png" epg-url="https://allfrtv.fr.ht/xmltv/xmltv.xml" audio-track="fr" tvg-name="TMC" group-title="FRENCH CINEMA",TMC
 udp://@239.101.10.21:1234
 #EXTINF:-1 tvg-id="13eRue.fr" tvg-logo="https://static.epg.best/fr/13Rue.fr.png" audio-track="fr" tvg-name="13ème Rue" group-title="FRENCH CINEMA",13ème Rue
@@ -228,10 +175,19 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 tvg-id="OCSGeants.fr" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" epg-url="https://allfrtv.fr.ht/xmltv/xmltv.xml" audio-track="fr" tvg-name="OCS Geants" group-title="FRENCH CINEMA",OCS Geants
 rtp://233.21.50.62:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BuKv5Vj.png" audio-track="fr" tvg-name="My TV Channel" group-title="FRENCH CINEMA",My TV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BuKv5Vj.png" audio-track="fr" tvg-name="TOP TV" group-title="FRENCH CINEMA",TOP TV
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BuKv5Vj.png" audio-track="fr" tvg-name="MY MOVIE" group-title="FRENCH CINEMA",MY MOVIE
+http://connectiktv.ddns.me:8080/mymovie-fr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" epg-url="https://allfrtv.fr.ht/xmltv/xmltv.xml" audio-track="fr" tvg-name="Paramount Channel" group-title="FRENCH CINEMA",Paramount Channel
 udp://@239.101.10.243:1234
 #EXTINF:-1 tvg-id="TCM.fr" tvg-logo="https://static.epg.best/fr/TCM.fr.png" epg-url="https://allfrtv.fr.ht/xmltv/xmltv.xml" audio-track="fr" tvg-name="TCM" group-title="FRENCH CINEMA",TCM
 udp://@239.101.10.9:1234
+
+#EXTINF:-1 tvg-logo="" group-title="FRENCH DECOUVERTE",canal savoir
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" audio-track="fr" tvg-name="arte" group-title="FRENCH DECOUVERTE",arte
 udp://@239.101.10.67:1234
 #EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" audio-track="fr" tvg-name="RMC Story" group-title="FRENCH DECOUVERTE",RMC Story
@@ -252,6 +208,7 @@ rtp://233.21.50.55:1234
 rtp://233.21.50.56:1234
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://static.epg.best/fr/UshuaiaTV.fr.png" audio-track="fr" tvg-name="Ushuaïa TV" group-title="FRENCH DECOUVERTE",Ushuaïa TV
 rtp://233.21.50.58:1234
+
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://static.epg.best/fr/Euronews.fr.png" audio-track="fr" tvg-name="Euronews" group-title="FRENCH NEWS",Euronews
 udp://@239.101.10.15:1234
 #EXTINF:-1 tvg-id="LesNews24.be" tvg-logo="https://www.ln24.be/themes/custom/mmw/images/logo-ln24.png" group-title="FRENCH NEWS",Les News 24
@@ -282,8 +239,6 @@ udp://@239.101.10.30:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-logo="https://static.epg.best/fr/DisneyJunior.fr.png" audio-track="eng" tvg-name="Disney Junior" group-title="FRENCH KIDS",Disney Junior
 rtp://233.21.50.31:1234
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="FRENCH KIDS",A12 Televison,FR | A12 Televison
-https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/NICKELODEONJUNIOR.png" audio-track="eng" tvg-name="Nickelodeon Junior" group-title="FRENCH KIDS",Nickelodeon Junior
 udp://@239.101.11.53:1234
 #EXTINF:-1 tvg-id="TeleToonPlus.Fr" tvg-logo="https://static.epg.best/fr/TeleToonPlus.fr.png" audio-track="eng" tvg-name="TéléToon +" group-title="FRENCH KIDS",TéléToon +
@@ -298,12 +253,14 @@ rtp://239.186.68.175:10000
 rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" audio-track="fr" tvg-name="Disney Channel" group-title="FRENCH KIDS",Disney Channel
 rtp://239.186.64.116:10000
+
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://static.epg.best/fr/MCMtop.fr.png" audio-track="fr" tvg-name="MCM Top" group-title="FRENCH MUSIC",MCM Top
 udp://@239.101.10.42:1234
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://static.epg.best/fr/Mezzo.fr.png" audio-track="fr" tvg-name="Mezzo" group-title="FRENCH MUSIC",Mezzo
 udp://@239.101.10.40:1234
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://static.epg.best/fr/MTV.fr.png" audio-track="fr" tvg-name="MTV France" group-title="FRENCH MUSIC",MTV France
 udp://@239.101.10.25:1234
+
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" audio-track="fr" tvg-name="TC Zoom" group-title="FRENCH SPORT",TC Zoom
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" audio-track="fr" tvg-name="L'Equipe" group-title="FRENCH SPORT",L'Equipe
@@ -332,6 +289,7 @@ rtp://233.32.39.171:1234
 rtp://239.186.79.8:10000
 #EXTINF:-1 tvg-id="MySportsPreview.ch" tvg-logo="https://static.epg.best/ch/MySportsPreview.ch.png" audio-track="fr" tvg-name="MySports Preview" group-title="FRENCH SPORT",MySports Preview
 udp://@239.101.10.85:1234
+
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://static.epg.best/fr/GameOne.fr.png" audio-track="fr" tvg-name="Game One" group-title="FRENCH REGIONAL",Game One
 udp://@239.101.10.244:1234
 #EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-logo="https://static.epg.best/fr/TV8MontBlanc.fr.png" audio-track="fr" tvg-name="8 Mont-Blanc" group-title="FRENCH REGIONAL",8 Mont-Blanc
