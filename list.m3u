@@ -240,7 +240,7 @@ rtp://233.21.50.11:1234
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-logo="https://static.epg.best/fr/DisneyJunior.fr.png" audio-track="eng" tvg-name="Disney Junior" group-title="FRENCH KIDS",Disney Junior
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/NICKELODEONJUNIOR.png" audio-track="eng" tvg-name="Nickelodeon Junior" group-title="FRENCH KIDS",Nickelodeon Junior
-udp://@239.101.11.53:1234
+rtp://233.21.50.63:1234
 #EXTINF:-1 tvg-id="TeleToonPlus.Fr" tvg-logo="https://static.epg.best/fr/TeleToonPlus.fr.png" audio-track="eng" tvg-name="TéléToon +" group-title="FRENCH KIDS",TéléToon +
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://static.epg.best/fr/Mangas.fr.png" audio-track="eng" tvg-name="Mangas" group-title="FRENCH KIDS",Mangas
