@@ -1,85 +1,85 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: 24 VESTI" tvg-logo="https://static.epg.best/mk/Vesti24.mk.png" group-title="TV",MK: 24 VESTI
+#EXTINF:-1 tvg-id="" tvg-name="MK: 24 VESTI" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: 24 VESTI
 http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: ALFA" tvg-logo="https://static.epg.best/mk/Alfa.mk.png" group-title="TV",MK: ALFA
+#EXTINF:-1 tvg-id="" tvg-name="MK: ALFA" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: ALFA
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: AM21" tvg-logo="" group-title="TV",MK: AM21
+#EXTINF:-1 tvg-id="" tvg-name="MK: AM21" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: AM21
 http://zdravkin.hugo.mk:1935/live/zdravkin/am21.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: FOLK STAR MUSIC" tvg-logo="" group-title="TV",MK: FOLK STAR MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="MK: FOLK STAR MUSIC" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: FOLK STAR MUSIC
 https://live.muzickatv.mk/live/StarMusic.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: IN TV" tvg-logo="https://i.ibb.co/h9DJk0w/intv.png" group-title="TV",MK: IN TV
+#EXTINF:-1 tvg-id="" tvg-name="MK: IN TV" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: IN TV
 http://tv1.intv.mk:1935/live/intv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: KANAL 5" tvg-logo="https://static.epg.best/mk/Kanal5.mk.png" group-title="TV",MK: KANAL 5
+#EXTINF:-1 tvg-id="" tvg-name="MK: KANAL 5" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: KANAL 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: KANAL 8" tvg-logo="https://static.epg.best/mk/Kanal8.mk.png" group-title="TV",MK: KANAL 8
+#EXTINF:-1 tvg-id="" tvg-name="MK: KANAL 8" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: KANAL 8
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET" tvg-logo="" group-title="TV",MK: M>>NET
+#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: M>>NET
 https://giganet.mk/hls/mnet.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET INFO" tvg-logo="" group-title="TV",MK: M>>NET INFO
+#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET INFO" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: M>>NET INFO
 https://giganet.mk/hls/mnet-info.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET KIDS" tvg-logo="" group-title="TV",MK: M>>NET KIDS
+#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET KIDS" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: M>>NET KIDS
 https://giganet.mk/hls/mnet-kids.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET SPORT" tvg-logo="" group-title="TV",MK: M>>NET SPORT
+#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET SPORT" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: M>>NET SPORT
 https://giganet.mk/hls/mnet-sport.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: MAC DOC" tvg-logo="" group-title="TV",MK: MAC DOC
+#EXTINF:-1 tvg-id="" tvg-name="MK: MAC DOC" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: MAC DOC
 https://giganet.mk/hls/macdoc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 1" tvg-logo="https://static.epg.best/mk/MRT1.mk.png" group-title="TV",MK: MRT 1
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 1" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: MRT 1
 http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: NASA TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/nasa-tv-logo.png" group-title="TV",MK: NASA TV
+#EXTINF:-1 tvg-id="" tvg-name="MK: NASA TV" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: NASA TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: ORBIS" tvg-logo="" group-title="TV",MK: ORBIS
+#EXTINF:-1 tvg-id="" tvg-name="MK: ORBIS" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: ORBIS
 http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: SITEL" tvg-logo="https://static.epg.best/mk/Sitel.mk.png" group-title="TV",MK: SITEL
+#EXTINF:-1 tvg-id="" tvg-name="MK: SITEL" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: SITEL
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: SKY FOLK" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="TV",MK: SKY FOLK
+#EXTINF:-1 tvg-id="" tvg-name="MK: SKY FOLK" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: SKY FOLK
 http://skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: SONCE HD MAKEDONIJA TV" tvg-logo="https://i.vimeocdn.com/portrait/24342550_300x300" group-title="TV",MK: SONCE
+#EXTINF:-1 tvg-id="" tvg-name="MK: SONCE HD MAKEDONIJA TV" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: SONCE
 https://srv1.adriatelekom.com/TVSonce/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: TELMA" tvg-logo="https://static.epg.best/mk/Telma.mk.png" group-title="TV",MK: TELMA
+#EXTINF:-1 tvg-id="" tvg-name="MK: TELMA" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: TELMA
 http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: TV ORBIS" tvg-logo="" group-title="TV",MK: TV ORBIS
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV ORBIS" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: TV ORBIS
 http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MK: ZDRAVKIN" tvg-logo="" group-title="TV",MK: ZDRAVKIN
+#EXTINF:-1 tvg-id="" tvg-name="MK: ZDRAVKIN" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",MK: ZDRAVKIN
 http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: EURONEWS SRBIJA" tvg-logo="https://i.imgur.com/9WsaWft.png" group-title="TV",RS: EURONEWS SRBIJA
+#EXTINF:-1 tvg-id="" tvg-name="RS: EURONEWS SRBIJA" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: EURONEWS SRBIJA
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="RS: ARENA SPORT 1 HD" tvg-logo="https://i.imgur.com/71Vv22v.png" group-title="TV",RS: ARENA SPORT 1 HD
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="RS: ARENA SPORT 1 HD" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: ARENA SPORT 1 HD
 https://srv1.iptviliria.com/ArenaSport1/tracks-v2a1/index-1623960000-now.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 
-#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="RS: ARENA SPORT 2 HD" tvg-logo="https://i.imgur.com/dtPCHK8.png" group-title="TV",RS: ARENA SPORT 2 HD
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="RS: ARENA SPORT 2 HD" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: ARENA SPORT 2 HD
 https://srv1.iptviliria.com/ArenaSport2/tracks-v2a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 
-#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="RS: ARENA SPORT 3 HD" tvg-logo="https://i.imgur.com/ToZ6v95.png" group-title="TV",RS: ARENA SPORT 3 HD
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="RS: ARENA SPORT 3 HD" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: ARENA SPORT 3 HD
 https://srv1.iptviliria.com/ArenaSport3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 
-#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="RS: ARENA SPORT 4 HD" tvg-logo="https://i.imgur.com/uFDlHri.png" group-title="TV",RS: ARENA SPORT 4 HD
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="RS: ARENA SPORT 4 HD" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: ARENA SPORT 4 HD
 https://srv1.iptviliria.com/ArenaSport4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 
-#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="RS: ARENA SPORT 5 HD" tvg-logo="https://i.imgur.com/TSPKG8q.png" group-title="TV",RS: ARENA SPORT 5 HD
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="RS: ARENA SPORT 5 HD" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: ARENA SPORT 5 HD
 https://srv1.iptviliria.com/ArenaSport5/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK 1 SRBIJA TV" tvg-logo="https://www.logolynx.com/images/logolynx/6c/6ce033a5b4e98cfde9a16746a1266fc4.jpeg" group-title="TV",RS: PINK 1 SRBIJA TV
+#EXTINF:-1 tvg-id="" tvg-name="RS: PINK 1 SRBIJA TV" tvg-logo="https://clipground.com/images/iptv-logo-clipart-8.jpg" group-title="TV",RS: PINK 1 SRBIJA TV
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
