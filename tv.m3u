@@ -63,6 +63,9 @@ http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: ZDRAVKIN" tvg-logo="" group-title="TV",MK: ZDRAVKIN
 http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RS: EURONEWS SRBIJA" tvg-logo="https://i.imgur.com/9WsaWft.png" group-title="TV",RS: EURONEWS SRBIJA
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
+
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="RS: ARENA SPORT 1 HD" tvg-logo="https://i.imgur.com/71Vv22v.png" group-title="TV",RS: ARENA SPORT 1 HD
 https://srv1.iptviliria.com/ArenaSport1/tracks-v2a1/index-1623960000-now.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 
