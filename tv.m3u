@@ -66,20 +66,5 @@ http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RS: EURONEWS SRBIJA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: EURONEWS SRBIJA
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="RS: ARENA SPORT 1 HD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: ARENA SPORT 1 HD
-https://srv1.iptviliria.com/ArenaSport1/tracks-v2a1/index-1623960000-now.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-
-#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="RS: ARENA SPORT 2 HD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: ARENA SPORT 2 HD
-https://srv1.iptviliria.com/ArenaSport2/tracks-v2a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-
-#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="RS: ARENA SPORT 3 HD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: ARENA SPORT 3 HD
-https://srv1.iptviliria.com/ArenaSport3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-
-#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="RS: ARENA SPORT 4 HD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: ARENA SPORT 4 HD
-https://srv1.iptviliria.com/ArenaSport4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-
-#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="RS: ARENA SPORT 5 HD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: ARENA SPORT 5 HD
-https://srv1.iptviliria.com/ArenaSport5/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-
 #EXTINF:-1 tvg-id="" tvg-name="RS: PINK 1 SRBIJA TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RS: PINK 1 SRBIJA TV
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
