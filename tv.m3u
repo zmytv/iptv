@@ -1,73 +1,45 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="24 VESTI" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: 24 VESTI
+#EXTINF:-1 tvg-id="" tvg-name="24 VESTI" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",24 VESTI
 http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ALFA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: ALFA
+#EXTINF:-1 tvg-id="" tvg-name="ALFA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",ALFA
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AM21" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: AM21
-http://zdravkin.hugo.mk:1935/live/zdravkin/am21.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FOLK STAR MUSIC" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: FOLK STAR MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="FOLK STAR MUSIC" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",FOLK STAR MUSIC
 https://live.muzickatv.mk/live/StarMusic.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: IN TV
+#EXTINF:-1 tvg-id="" tvg-name="IN TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",IN TV
 http://tv1.intv.mk:1935/live/intv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 5" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: KANAL 5
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 5" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",KANAL 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 8" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: KANAL 8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 8" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",KANAL 8
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M>>NET" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: M>>NET
+#EXTINF:-1 tvg-id="" tvg-name="M>>NET" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",M>>NET
 https://giganet.mk/hls/mnet.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M>>NET INFO" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: M>>NET INFO
+#EXTINF:-1 tvg-id="" tvg-name="M>>NET INFO" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",M>>NET INFO
 https://giganet.mk/hls/mnet-info.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MK: M>>NET KIDS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: M>>NET KIDS
+#EXTINF:-1 tvg-id="" tvg-name="M>>NET KIDS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",M>>NET KIDS
 https://giganet.mk/hls/mnet-kids.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M>>NET SPORT" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: M>>NET SPORT
+#EXTINF:-1 tvg-id="" tvg-name="M>>NET SPORT" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",M>>NET SPORT
 https://giganet.mk/hls/mnet-sport.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAC DOC" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MK: MAC DOC
+#EXTINF:-1 tvg-id="" tvg-name="MAC DOC" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MAC DOC
 https://giganet.mk/hls/macdoc.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MRT 1" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",MRT 1
 http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",NASA TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ORBIS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",ORBIS
 http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SITEL" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",SITEL
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",SKY FOLK
 http://skyfolk.mk/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SONCE" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",SONCE
+#EXTINF:-1 tvg-id="" tvg-name="SONCE HD MAKEDONIJA TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",SONCE
 https://srv1.adriatelekom.com/TVSonce/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TELMA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",TELMA
 http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV ORBIS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",TV ORBIS
-http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ZDRAVKIN" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",ZDRAVKIN
 http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EURONEWS SRBIJA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",EURONEWS SRBIJA
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PINK 1 SRBIJA TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",PINK 1 SRBIJA TV
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
-
 #EXTINF:-1 tvg-id="" tvg-name="RED" tvg-logo="https://image.winudf.com/v2/image1/Y29tLndpbnNhdC5ndHBsYXllcl9pY29uXzE1NzU5MTQwODZfMDkx/icon.png?w=170&fakeurl=1" group-title="TV",RED
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
