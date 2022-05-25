@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,KTO TV
+http://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1,KTO TV s
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
