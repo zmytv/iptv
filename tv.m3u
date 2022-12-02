@@ -1,89 +1,32 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV",1 KANAL
-https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",24 KITCHEN
-https://cdn1.mobiletv.bg/T13/24kitchen/24kitchen_794613_850k.m3u8
+#EXTINF:-1 group-title="TV",MRT 1
+http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
 #EXTINF:-1 group-title="TV",24 VESTI
 http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
-#EXTINF:-1 group-title="TV",ALFA
-http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 group-title="TV",AMC
-https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",ARENA SPORT 2
-http://84.22.33.214/ArenaSport2/index.m3u8?token=test
-#EXTINF:-1 group-title="TV",AUTO MOTOR SPORT HD
-https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",AXN
-https://cdn1.mobiletv.bg/T13/axn/axn_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BG MUSIC
-https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BG ON AIR
-https://cdn1.mobiletv.bg/T13/bg_on_air/bg_on_air_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BN MUSIC
-https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BOX TV
-https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BTV CINEMA
-https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",BTV COMEDY
-https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",CITY TV
-https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",DIEMA
-https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",DISCOVERY
-https://cdn1.mobiletv.bg/T13/discovery/discovery_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",DM SAT
-https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",EKIDS
-https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",ETA
-https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",EURONEWS SRBIJA
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
-http://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w262667733_b6256000.m3u8
-#EXTINF:-1 group-title="TV",AL JAZEERA BALKANS
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 group-title="TV",KURIR TELEVIZIJA
-https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1 group-title="TV",TSD
-https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1 group-title="TV",EUROSPORT 1
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",EUROSPORT 2
-https://cdn1.mobiletv.bg/T13/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FEN TV
-https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FILMBOX
-https://cdn1.mobiletv.bg/T7/filmbox_extra/filmbox_extra_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FISHING and HUNTING
-https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FOLK STAR MUSIC
-https://live.muzickatv.mk/live/StarMusic.m3u8
-#EXTINF:-1 group-title="TV",FOLKLOR
-https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FOX
-https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FOX CRIME
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",FOX LIFE
-https://cdn1.mobiletv.bg/T13/foxlife/foxlife_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",HISTORY
-https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",IN TV
-http://tv1.intv.mk:1935/live/intv/playlist.m3u8
-#EXTINF:-1 group-title="TV",KANAL 3
-https://cdn1.mobiletv.bg/T13/kanal3/kanal3_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",KANAL 4
-https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
+#EXTINF;0,TV Sonce
+https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
+#EXTINF;0,MK sonce
+https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 group-title="TV",SITEL
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 #EXTINF:-1 group-title="TV",KANAL 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
+#EXTINF:-1 group-title="TV",ALFA
+http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 group-title="TV",KANAL 8
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-#EXTINF:-1 group-title="TV",KINO NOVA
-https://cdn1.mobiletv.bg/T14/ATV/kino_nova/kino_nova_ATV987654321.m3u8
-#EXTINF:-1 group-title="TV",KINONOVA
-https://cdn1.mobiletv.bg/T13/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:-1 group-title="TV",NASA TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 group-title="TV",FOLK STAR MUSIC
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 group-title="TV",SKY FOLK
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="TV",TELMA
+http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
+#EXTINF:-1 group-title="TV",ZDRAVKIN
+http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
+#EXTINF:-1 group-title="TV",IN TV
+http://tv1.intv.mk:1935/live/intv/playlist.m3u8
 #EXTINF:-1 group-title="TV",M>>NET
 https://giganet.mk/hls/mnet.m3u8
 #EXTINF:-1 group-title="TV",M:NET
@@ -100,61 +43,23 @@ https://ares.mnet.mk/hls/mnet-kids.m3u8
 https://giganet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="TV",M:NET SPORT
 https://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 group-title="TV",MAC DOC
-https://giganet.mk/hls/macdoc.m3u8
-#EXTINF:-1 group-title="TV",MRT 1
-http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
+#EXTINF:-1 group-title="TV",EURONEWS SRBIJA
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w259426996_b6256000.m3u8
+#EXTINF:-1 group-title="TV",AL JAZEERA BALKANS
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 group-title="TV",KURIR TELEVIZIJA
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 group-title="TV",TSD
+https://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1 group-title="TV",PRVA TV
+http://69.61.26.26:8080/stream/?fw=true&route=server1&rule=null&sp=exyu&channel=prva-exyu&stream=sd&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=m3u8
 #EXTINF:-1 group-title="TV",N1 SRBIJA TV
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 group-title="TV",NASA TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 group-title="TV",NAT GEO HD
-https://cdn1.mobiletv.bg/T13/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",NAT GEO WILD HD
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",NICK JR.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",NOVA SPORT
-https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 group-title="TV",ORBIS
 http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
 #EXTINF:-1 group-title="TV",PINK 1 SRBIJA TV
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
-#EXTINF:-1 group-title="TV",PLANETA
-https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
 #EXTINF:-1 group-title="TV",RED
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
-#EXTINF:-1 group-title="TV",RING BG HD
-https://cdn1.mobiletv.bg/T13/ringbghd/ringbghd_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",RTL
-https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",SITEL
-http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
-#EXTINF:-1 group-title="TV",SKAT
-https://cdn1.mobiletv.bg/T13/skat/skat_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",SKY FOLK
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="TV",SONCE
-https://srv1.adriatelekom.com/TVSonce/mono.m3u8
-#EXTINF:-1 group-title="TV",TELMA
-http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
-#EXTINF:-1 group-title="TV",THE VOICE
-https://cdn1.mobiletv.bg/T13/thevoice/thevoice_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",TLC
-https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",TRAVEL CHANNEL
-https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",TV 1000
-https://cdn1.mobiletv.bg/T15/tv1000/tv1000_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",TV EVROPA
-https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",TV VRATSA
-https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",VIASAT EXPLORE
-https://cdn1.mobiletv.bg/T15/viasat_explorer/ve_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",VIASAT HISTORY
-https://cdn1.mobiletv.bg/T15/viasat_history/vh_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",VIASAT NATURE
-https://cdn1.mobiletv.bg/T15/viasat_nature/vn_794613_850k.m3u8
-#EXTINF:-1 group-title="TV",ZDRAVKIN
-http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
+#EXTINF:-1 group-title="TV",RTS 1
+http://69.61.26.26:8080/stream/?fw=true&route=server1&rule=null&sp=exyu&channel=rts1-exyu&stream=sd&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=m3u
