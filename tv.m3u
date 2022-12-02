@@ -3,9 +3,9 @@
 http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
 #EXTINF:-1 group-title="TV",24 VESTI
 http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
-#EXTINF;0,TV Sonce
+#EXTINF:-1 group-title="TV",TV Sonce
 https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
-#EXTINF;0,MK sonce
+#EXTINF:-1 group-title="TV",MK sonce
 https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 group-title="TV",SITEL
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
