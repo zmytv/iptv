@@ -9,8 +9,14 @@ https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
 https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 group-title="TV",SITEL
 http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="TV",SITEL  novo1
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 group-title="TV",SITEL  novo2
+https://teve.mk/tvstanici/s1/chunks.m3u8
 #EXTINF:-1 group-title="TV",KANAL 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
+#EXTINF:-1 group-title="TV",KANAL 5 novo
+https://s2.teve.mk/tvstanici/2/chunks.m3u8
 #EXTINF:-1 group-title="TV",ALFA
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 group-title="TV",KANAL 8
@@ -60,6 +66,9 @@ http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
 #EXTINF:-1 group-title="TV",PINK 1 SRBIJA TV
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
 #EXTINF:-1 group-title="TV",RED
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 group-title="TV",RTS 1
+http://69.61.26.26:8080/stream/?fw=true&route=server1&rule=null&sp=exyu&channel=rts1-exyu&stream=sd&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=m3u
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 group-title="TV",RTS 1
 http://69.61.26.26:8080/stream/?fw=true&route=server1&rule=null&sp=exyu&channel=rts1-exyu&stream=sd&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=m3u
